@@ -34,4 +34,4 @@ IN NO EVENT SHALL TRIMAL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQ
 These Terms shall be governed by and construed in accordance with the laws of California, without regard to its conflict of law provisions.
 
 ## 9. Contact Information
-For any questions regarding these Terms, please contact us at info<at>trimal<dot>in
+For any questions regarding these Terms, please contact us at info@trimal@in
